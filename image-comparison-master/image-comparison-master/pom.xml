@@ -4,14 +4,14 @@
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.romankh3</groupId>
+    <groupId>com.github.Naninaresh-Git</groupId>
     <artifactId>image-comparison</artifactId>
     <version>4.2.1</version>
     <packaging>jar</packaging>
 
     <name>Image Comparison</name>
 
-    <url>https://romankh3.github.io/image-comparison/</url>
+    <url>https://Naninaresh-Git.github.io/image-comparison/</url>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
